@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente aprendendo **Python,R,SQL**
 
-- 📫 How to reach me >> **giovanni.augusto2020@gmail.com**
+- 📫 Contato >> **giovanni.augusto2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
