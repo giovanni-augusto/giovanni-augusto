@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando com **Análise de Dados**
 
-- 🌱 Atualmente aprendendo **Python,R,SQL**
+- 🌱 Atualmente estudando **Python,R,SQL**
 
 - 📫 Contato >> **giovanni.augusto2020@gmail.com**
 
