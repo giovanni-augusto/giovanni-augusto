@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, Eu sou o Giovanni</h1>
-<h3 align="center">Entusiasta da área de dados!!</h3>
 
 - 🔭 Atualmente trabalhando com **Análise de Dados**
 
