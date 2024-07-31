@@ -1,7 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Giovanni</h1>
 
-- 🔭 Atualmente trabalhando com **Análise de Dados**
-
 - 🌱 Atualmente estudando **Python,R,SQL**
 
 - 📫 Contato >> **giovanni.augusto2020@gmail.com**
